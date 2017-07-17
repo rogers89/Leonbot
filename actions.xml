@@ -1,0 +1,14 @@
+<actions>
+	<subject>
+		<main></main>
+		<related></related>
+		<good></good>
+		<norm>
+			<qu></qu>
+			<re></re>
+			<init></init>
+			<fup></fup>
+		</norm>
+		<bad></bad>
+	</subject>
+</actions>
